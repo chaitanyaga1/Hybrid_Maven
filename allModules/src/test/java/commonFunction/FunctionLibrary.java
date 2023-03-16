@@ -119,9 +119,9 @@ public class FunctionLibrary {
     public static void addition() {
     	
     	int a=10;
-    	int b=20;
+    	int b=15;
     	
-    	int c=a+b;
+    	int c=a-b;
     }
 
 }
