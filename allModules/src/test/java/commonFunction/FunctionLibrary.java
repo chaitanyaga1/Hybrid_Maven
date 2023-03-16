@@ -116,6 +116,12 @@ public class FunctionLibrary {
     	return format.format(date);
     	 
      }
-
+    public static void addition() {
+    	
+    	int a=10;
+    	int b=20;
+    	
+    	int c=a+b;
+    }
 
 }
